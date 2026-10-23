@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "orbitalarsenal",
+  "version": "${version}",
+  "name": "Orbital Arsenal",
+  "description": "Orbital stab/nuke/wither-skull/TNT/mob cannons, a TNT minecart cannon, a stasis rod and a stasis player-teleporter rod.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.orbitalarsenal.OrbitalArsenal"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.2 <27",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
