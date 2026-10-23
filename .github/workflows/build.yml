@@ -30,4 +30,3 @@ jobs:
         with:
           name: orbitalarsenal-mod
           path: build/libs/*.jar
-
